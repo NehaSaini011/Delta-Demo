@@ -1,2 +1,2 @@
 # Delta-Demo
-Learning about git commands
+Learning about git and github commands
